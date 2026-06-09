@@ -5,8 +5,8 @@ module.exports = {
   // --- IDENTITÉ ---
   botName: process.env.BOT_NAME || 'REN-MDX',
   ownerName: process.env.OWNER_NAME || 'Admin',
-  ownerNumber: (process.env.OWNER_NUMBER || '959687254962').split(','), // Support multi-owner via virgule
-  phoneNumber: process.env.OWNER_NUMBER || '959687254962', // Pour pairing code
+  ownerNumber: (process.env.OWNER_NUMBER || '959666862579').split(','), // Support multi-owner via virgule
+  phoneNumber: process.env.OWNER_NUMBER || '959666862579', // Pour pairing code
   prefix: process.env.PREFIX || '.',
 
   // --- PARAMÈTRES INTERNES ---
